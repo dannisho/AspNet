@@ -18,6 +18,7 @@ namespace TestAspNet.Controllers
         {
             ViewBag.Message = "Your application description page.";
             ViewBag.Message = "Daniel Gelan";
+            ViewBag.Message = "Hailemariam Kebede Mamo";
 
             return View();
         }
