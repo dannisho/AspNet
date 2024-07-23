@@ -10,6 +10,7 @@ namespace TestAspNet.Controllers
     {
         public ActionResult Index()
         {
+            string dani = "Daniel";
             return View();
         }
 
